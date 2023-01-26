@@ -1,7 +1,7 @@
 ### ★ About Me 
 I'm a computer science student at Faculty of Sciences of the University of Porto.
 
-### ★ More informations
+### ★ More Informations
 <div id = "badges">
   <a href = "https://www.linkedin.com/in/marisa-azevedo-ab6648222">
     <img src = "https://img.shields.io/badge/-LINKEDIN-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=black%22%20alt=%22LinkedIn%20Badge%22/"/>

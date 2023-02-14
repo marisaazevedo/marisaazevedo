@@ -12,10 +12,10 @@ I'm a computer science student at Faculty of Sciences of the University of Porto
   
 ### ★ Statistics
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marisaazevedo&show_icons=false&count_private=true&hide_border=false&border_color=C3B1E1&title_color=C3B1E1&text_color=495057&bg_color=ffffff" alt="misa's github stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marisaazevedo&show_icons=false&count_private=true&hide_border=false&border_color=ffffff&title_color=C3B1E1&text_color=495057&bg_color=ffffff" alt="misa's github stats"/>
 </div>
  <div>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisaazevedo&hide_border=false&border_color=C3B1E1&title_color=C3B1E1&text_color=495057&bg_color=ffffff"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisaazevedo&hide_border=false&border_color=ffffff&title_color=C3B1E1&text_color=495057&bg_color=ffffff"/>
 </div>
 
 <div>

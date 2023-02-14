@@ -11,9 +11,12 @@ I'm a computer science student at Faculty of Sciences of the University of Porto
 
   
 ### ★ Statistics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marisaazevedo&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marisaazevedo&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marisaazevedo&show_icons=false&count_private=true&hide_border=false&border_color=C3B1E1&title_color=C3B1E1&text_color=495057&bg_color=ffffff" alt="misa's github stats"/>
+</div>
+ <div>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marisaazevedo&hide_border=false&border_color=C3B1E1&title_color=C3B1E1&text_color=495057&bg_color=ffffff"/>
+</div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

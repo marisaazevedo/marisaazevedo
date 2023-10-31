@@ -1,5 +1,5 @@
 ### ★ About Me 
-I'm a computer science student at Faculty of Sciences of the University of Porto.
+I'm a student at the Faculty of Sciences of the University of Porto, currently pursuing a bachelor's degree in computer science.
 
 ### ★ More Informations
 <div id = "badges">

@@ -2,10 +2,8 @@
   <a href = "https://www.linkedin.com/in/marisa-azevedo-ab6648222">
     <img src = "https://img.shields.io/badge/-LINKEDIN-C3B1E1?style=for-the-badge&logo=linkedin&logoColor=black%22%20alt=%22LinkedIn%20Badge%22/"/>
   </a>
- </div>
- <img src="https://komarev.com/ghpvc/?username=marisaazevedo&style=flat-square&color=C3B1E1" alt=""/>
+</div>
 
-  
 ### ★ Statistics
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marisaazevedo&show_icons=false&count_private=true&hide_border=false&border_color=ffffff&title_color=C3B1E1&text_color=495057&bg_color=ffffff" alt="misa's github stats"/>

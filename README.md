@@ -20,6 +20,7 @@
 | AC (feup) | [WNBAPlayoffsPredictor](https://github.com/marisaazevedo/WNBA_playoffs_qualification_Predictor) | Machine learning model predicting WNBA teams' playoff qualification. |
 | ISIA (fcup) | [LunarLanderRL](https://github.com/marisaazevedo/Lunar-Lander-Reinforcement-Learning) | Reinforcement learning project training an autonomous agent to solve the Lunar Lander environment. |
 | ISIA (fcup) | [TrafficControlSimulation](https://github.com/marisaazevedo/MultiAgentSystem-TrafficControlSimulation) | Multi-agent system simulation for intelligent traffic control and coordination. |
+| ML (fcup) | [AdaBoostRefined](https://github.com/marisaazevedo/ML_AdaBoostRefined) | Implementation and refinement of the AdaBoost machine learning algorithm for classification tasks. |
 | TW (fcup) | [WebDaraGame](https://github.com/marisaazevedo/Web-Dara-Game) | Web-based implementation of the traditional Dara board game with interactive gameplay. |
 | BD (fcup) | [SatelliteInfoSystem](https://github.com/marisaazevedo/SatelliteInfoSystem) | A web application that manages satellite information. |
 | IA (fcup) | [DecisionTrees](https://github.com/marisaazevedo/DecisionTrees) | Academic project implementing decision tree algorithms for classification and predictive analysis. |
@@ -28,7 +29,6 @@
 | SP (fcup) | [SecurityAndPrivacy](https://github.com/marisaazevedo/Seguranca-e-Privacidade) | Academic projects and assignments developed for the Security and Privacy course. |
 | Compiladores (fcup) | [C0Compiler](https://github.com/marisaazevedo/C0_compiler) | Compiler implementation for the C0 programming language. |
 | RC (fcup) | [ClientServerChat](https://github.com/marisaazevedo/Client-Server-Chat) | Client-server chat application implementing real-time messaging over a network. |
-| ML (fcup) | [AdaBoostRefined](https://github.com/marisaazevedo/ML_AdaBoostRefined) | Implementation and refinement of the AdaBoost machine learning algorithm for classification tasks. |
 
 
 ### 🛠️ Languages & Tools

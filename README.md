@@ -10,8 +10,6 @@
 
 ### Projects
 
-### Projects
-
 | UC | Name | Description |
 |----|------|-------------|
 | PRI (feup) | [MentalHealthSearchEngine](https://github.com/marisaazevedo/Mental_Disorders_SearchEngine) | Information retrieval system for searching mental health information. |
